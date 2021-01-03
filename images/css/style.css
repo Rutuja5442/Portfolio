@@ -1,0 +1,129 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 200%;
+  color: #40514E;
+  background-color: #ECE8D5;
+
+}
+h1{
+  color: #66BFBF;
+  font-size:5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+
+
+}
+h2{
+  color: #66BFBF;
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+ padding-bottom: 10px;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+hr{
+  border: dotted #DDDDDD 6px;
+  border-bottom: None;
+  width: 4%;
+  margin: 100px auto;
+}
+p{
+  line-height: 2;
+}
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: None;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.top-container{
+  background-color: #B4F2E1;
+  position: relative;
+  padding-top: 100px;
+  color: #66BFBF;
+}
+.middle-container{
+  margin: 100px 0;
+}
+.computer{
+  height: 200px;
+  width: 200px;
+
+}
+.bottom-container{
+ background-color: #66BFBF;
+ color: #11999E;
+ padding: 50px 0 20px;
+}
+.contact-msg{
+  width: 40%;
+  margin: 40px auto 60px;
+  font-size: 1.5rem;
+  background-color: #DBC6EB;
+}
+.My-image{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+
+}
+
+.skill-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+
+  text-align: left;
+}
+.badminton{
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  float: right;
+  margin-left: 60px;
+
+}
+.Chess{
+
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  float: left;
+  margin-right: 90px;
+}
+.btn:hover{
+  color:#EAF6F6;
+}
+
+
+.des{
+  font-size: 1.5rem;
+}
+.ru{
+  font-size: 1.5rem;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+.top-cloud{
+  position:absolute;
+  right: 300px;
+  top: 40px;
+}
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+span{
+  text-decoration: underline;
+}
